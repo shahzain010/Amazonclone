@@ -14,7 +14,7 @@ An Amazon website clone created using CSS and HTML, replicating key elements of 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 
 
